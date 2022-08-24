@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: 
 - German discord server: https://discord.gg/nd8dAxQe7R
-- e-mail: Lukibukiboy2.0@gmail.com
+- e-mail: Lukibukiboy2.0@outlook.de
                       
 
 <!---

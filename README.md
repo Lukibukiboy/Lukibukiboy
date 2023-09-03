@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Lukibukiboy
-- 👀 I’m interested in coding discord bots and minecraft datapacks
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in coding discord bots in python and minecraft datapacks
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: 
-- German discord server: https://discord.gg/nd8dAxQe7R
-- e-mail: Lukibukiboy2.0@outlook.de
+- Discord tag: Lukibukiboy#lukibukiboy
+- e-mail: Lukas_b-p@outlook.de
                       
 
 <!---

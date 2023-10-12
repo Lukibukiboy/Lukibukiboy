@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukibukiboy
-- 👀 I’m interested in coding discord bots in python and minecraft datapacks
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in coding python and discord bots with python
+- 🌱 I’m currently learning C++ and to programm Neural Networks 
 - 📫 How to reach me: 
 - Discord tag: Lukibukiboy#lukibukiboy
 - e-mail: Lukas_b-p@outlook.de

@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Lukibukiboy
-- 👀 I’m interested in coding python and discord bots with python
-- 🌱 I’m currently learning C++ and to programm Neural Networks 
+- 👀 I’m interested in coding all kind of bs
+- 🌱 I’m currently stealth developing ofc ;)
 - 📫 How to reach me: 
-- Discord tag: Lukibukiboy#lukibukiboy
+- Discord tag: lukibukiboy
 - e-mail: Lukas_b-p@outlook.de
+
+Using Arch btw ;)
                       
 
 <!---
